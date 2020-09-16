@@ -1,6 +1,6 @@
 # spring-hibernate-hikaricp-tutorial
 
-This tutorial code used to explain Spring with Hibernate for persistence layer and Web MVC to call CRUD operations and specially adding HikariCP API for improvement database connection management by following tasks:
+This tutorial code used to explain Spring with Hibernate for persistence layer and Web MVC to call CRUD operations and specially adding HikariCP API for improvement database connection pool management by following tasks:
 
 * add **spring-context**, **mysql-connector-java**, **spring-orm** **spring-webmvc** and dependencies
 * add **javax.servlet.jsp-api**, **javax.servlet-api** and **jstl** dependencies for implementing Java server-side UI(.jsp files).
