@@ -1,5 +1,7 @@
 # spring-hibernate-hikaricp-tutorial
 
+Spring MVC features explained in [spring-mvc-jdbc-tutorial](https://github.com/seefa/spring-jdbc-mvc-tutorial) and Hibernate mentioned in [spring-mvc-hibernate-dbcp2-tutorial](https://github.com/seefa/spring-mvc-hibernate-dbcp2-tutorial) codes in my repository
+
 This tutorial code used to explain Spring with Hibernate for persistence layer and Web MVC to call CRUD operations and specially adding HikariCP API for improvement database connection pool management by following tasks:
 
 * add **spring-context**, **mysql-connector-java**, **spring-orm** **spring-webmvc** and dependencies
